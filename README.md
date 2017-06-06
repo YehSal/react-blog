@@ -1,2 +1,2 @@
 # React Blog
-This a blog built using ReactJS
+This is a blog built using ReactJS
